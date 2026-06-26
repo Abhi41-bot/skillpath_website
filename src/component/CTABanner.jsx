@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/components/CTABanner.jsx
-// ============================================================
+
 function CTABanner() {
     return (
         <section className="cta-banner">
