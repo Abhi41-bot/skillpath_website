@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/components/TestimonialSection.jsx
-// ============================================================
+
 function TestimonialSection() {
     const testimonials = [
         {
