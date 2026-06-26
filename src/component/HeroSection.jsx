@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/components/HeroSection.jsx
-// ============================================================
+
 function HeroSection() {
     return (
         <section className="hero">
