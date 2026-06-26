@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/pages/LandingPage.jsx
-// ============================================================
+
 import HeroSection from '../component/HeroSection';
 import FeatureCard from '../component/FeatureCard';
 import TestimonialSection from '../component/TestimonialSection';
