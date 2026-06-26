@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/pages/AboutPage.jsx
-// ============================================================
+
 import Navbar from '../component/Navbar';
 import Footer from '../component/Footer';
 
