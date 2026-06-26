@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/App.jsx
-// ============================================================
+
 import { Routes, Route } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 import AboutPage from './pages/AboutPage';
