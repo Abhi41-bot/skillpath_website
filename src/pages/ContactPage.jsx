@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/pages/ContactPage.jsx
-// ============================================================
+
 import { useState } from 'react';
 import Navbar from '../component/Navbar';
 import Footer from '../component/Footer';
