@@ -1,6 +1,4 @@
-// ============================================================
-// FILE: src/pages/NotFoundPage.jsx
-// ============================================================
+
 import { Link } from 'react-router-dom';
 import Navbar from '../component/Navbar';
 import Footer from '../component/Footer';
